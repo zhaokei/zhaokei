@@ -8,3 +8,4 @@ insert line 7.2019年6月1日 14点49分
 你瞅瞅，我就修改了个bug，立马提交，剩下对这个文件的修改，明天再提交合并。
 正在用dev进行readme.txt的开发，来了bug，要我修改license.txt，改吧
 被强制合并了
+从github上进行了修改
