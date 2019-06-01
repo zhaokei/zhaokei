@@ -9,3 +9,4 @@ insert line 7.2019年6月1日 14点49分
 正在用dev进行readme.txt的开发，来了bug，要我修改license.txt，改吧
 被强制合并了
 本地修改后，提交到github
+从github上进行了修改
